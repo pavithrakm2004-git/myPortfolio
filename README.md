@@ -62,8 +62,8 @@ Open index.html in any web browser
 
  Contact
  
- Email: pavithrakm.ds25@duk.ac.in
+ Email: pavithrakm657@gmail.com
  
- GitHub: https://github.com/pavithrakmds25-commits
+ GitHub: https://github.com/pavithrakm2004-git
  
  LinkedIn: https://www.linkedin.com/in/pavithra-k-m-101016345
