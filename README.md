@@ -29,8 +29,6 @@ M.Sc in Data Science and Computational Modeling
 Digital University Kerala (2025 – Present) ,
 B.Sc in Mathematics 
 Mar Dionysius College, Thrissur (2022 – 2025) ,
-Higher Secondary (Class XII) 
-GHSS Kuttippuram (2020 – 2022) ,
 
 Skills:
 
@@ -53,7 +51,7 @@ How to Run the Project :
 
 Download or clone this repository:
 
-git clone https://github.com/your-username/portfolio.git
+git clone [https://github.com/your-username/portfolio.git](https://github.com/pavithrakm2004-git/myPortfolio)
 Open the project folder
 
 Run the file:
@@ -67,3 +65,5 @@ Open index.html in any web browser
  GitHub: https://github.com/pavithrakm2004-git
  
  LinkedIn: https://www.linkedin.com/in/pavithra-k-m-101016345
+
+ MyPortfolio: file:///D:/Project/portfolio.html#top
