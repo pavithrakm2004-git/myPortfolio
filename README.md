@@ -1,69 +1,63 @@
-Pavithra K M — Portfolio Website
+# Pavithra K M — Personal Portfolio
 
-This is a personal portfolio website built using HTML, CSS, JavaScript. It showcases my academic background, skills, and contact information in a simple and structured format.
+Welcome to my personal portfolio website!
 
-About the Project:
+I am Pavithra K M, an aspiring Data Analyst and Data Scientist with a mathematical foundation and an interest in Machine Learning, Generative AI, Data Analytics, and Computational Science.
 
-This portfolio is designed as a minimal and user-friendly website with tab-based navigation. 
-It highlights:
+## About Me
 
-Personal introduction,
-Educational background,
-Technical skills,
-Contact details,
-The goal of this project is to present my profile as a Data Science student and demonstrate basic web development skills.
+I am currently pursuing an M.Sc. in Data Analytics and Computational Science at Digital University Kerala. I hold a B.Sc. in Mathematics from the University of Calicut.
 
-About Me :
+My interests include data-driven problem solving, machine learning, knowledge graphs, and intelligent systems.
 
-I am Pavithra K M, a Data Science student from Kerala with a strong background in mathematics and a passion for data analysis and computational problem-solving.
+## Skills
 
-M.Sc in Data Science and Computational Modeling (Ongoing),
-B.Sc in Mathematics,
-Interested in Data Analysis & Machine Learning,
+- **Programming:** Python, SQL
+- **Data Analytics:** Data Cleaning, EDA, Statistical Analysis, Data Visualization
+- **Machine Learning:** Classification, Regression, Feature Engineering, Model Evaluation
+- **Generative AI:** LLMs, Prompt Engineering, Information Extraction
+- **Data Engineering:** Data Processing, Data Pipelines, ETL Concepts
+- **Knowledge Graphs:** Knowledge Graph Construction, Neo4j, Gephi
+- **Visualization:** Power BI, Looker Studio, Streamlit
+- **Cloud:** Google Cloud Platform, BigQuery
 
-Goal: Build expertise in data analytics and contribute through real-world projects
+## Featured Projects
 
-Education:
+1. Chess Piece Classification
+2. Handwritten Digit Recognition
+3. Heart Disease Prediction
+4. Taxi Demand Prediction
+5. LLM-Based Question Answering Chatbot
 
-M.Sc in Data Science and Computational Modeling 
-Digital University Kerala (2025 – Present) ,
-B.Sc in Mathematics 
-Mar Dionysius College, Thrissur (2022 – 2025) ,
+Project repositories are linked from the portfolio website.
 
-Skills:
+## Research Interests
 
-Python,
-HTML & CSS,
-Data Analysis,
-Machine Learning,
-Git & GitHub,
-Excel,
-Canva,
+- Echo State Networks and Coupled Dynamical Systems
+- Graph Representation Learning
+- Community Detection in Adaptive Networks
 
-Features :
+## Education
 
-Clean and minimal UI ,
-Tab-based navigation (About, Education, Skills, Contact) ,
-Responsive layout ,
-Simple JavaScript for interactivity
+- **M.Sc. Data Analytics and Computational Science** — Digital University Kerala (2025–2027, expected)
+- **B.Sc. Mathematics** — Mar Dionysius College, Pazhanji (2022–2025)
 
-How to Run the Project :
+## Contact
 
-Download or clone this repository:
+- **Email:** pavithrakm657@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/pavithra-k-m-101016345/
+- **GitHub:** https://github.com/pavithrakm2004-git
 
-git clone [https://github.com/your-username/portfolio.git](https://github.com/pavithrakm2004-git/myPortfolio)
-Open the project folder
+## Technologies Used
 
-Run the file:
+HTML5, CSS3, JavaScript
 
-Open index.html in any web browser
+## Website
 
- Contact
- 
- Email: pavithrakm657@gmail.com
- 
- GitHub: https://github.com/pavithrakm2004-git
- 
- LinkedIn: https://www.linkedin.com/in/pavithra-k-m-101016345
+My portfolio is published using GitHub Pages.
 
- MyPortfolio: file:///D:/Project/portfolio.html#top
+**Live Website:** Add your GitHub Pages URL here after deployment.
+
+---
+
+© 2026 Pavithra K M. All rights reserved.
