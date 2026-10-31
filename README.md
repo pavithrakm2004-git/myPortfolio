@@ -56,7 +56,7 @@ HTML5, CSS3, JavaScript
 
 My portfolio is published using GitHub Pages.
 
-**Live Website:** Add your GitHub Pages URL here after deployment.
+**Live Website:** https://pavithrakm2004-git.github.io/myPortfolio/.
 
 ---
 
